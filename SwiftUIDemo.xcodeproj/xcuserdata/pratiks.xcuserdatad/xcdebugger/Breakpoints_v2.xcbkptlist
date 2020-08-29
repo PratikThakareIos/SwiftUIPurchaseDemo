@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "94F2F214-D0F2-4F32-B8DD-8B6575EBA5BE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26BDBCC9-3475-45E8-B6B6-3138146244EA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIDemo/Menu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "MenuItem"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB47396D-6960-4A65-8E7D-5F2483F79728"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIDemo/View/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AB47396D-6960-4A65-8E7D-5F2483F79728 - bddf852ab3d4a14d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;SwiftUIDemo.MenuItem&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;SwiftUIDemo.ItemRow, SwiftUIDemo.ItemDetail&gt;&gt; in closure #1 (SwiftUIDemo.MenuSection) -&gt; SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;Swift.Array&lt;SwiftUIDemo.MenuItem&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;SwiftUIDemo.ItemRow, SwiftUIDemo.ItemDetail&gt;&gt;, SwiftUI.EmptyView&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;SwiftUIDemo.MenuSection&gt;, Foundation.UUID, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;Swift.Array&lt;SwiftUIDemo.MenuItem&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;SwiftUIDemo.ItemRow, SwiftUIDemo.ItemDetail&gt;&gt;, SwiftUI.EmptyView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.listStyle&lt;A where A1: SwiftUI.ListStyle&gt;(A1) -&gt; some&gt;&gt;.0 in SwiftUIDemo.ContentView.body.getter : some"
+                  moduleName = "SwiftUIDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pratiks/Desktop/Learn/SwiftUIDemo/SwiftUIDemo/View/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "AB47396D-6960-4A65-8E7D-5F2483F79728 - 64ac7b2262c9309d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUIDemo.MenuItem) -&gt; SwiftUI.NavigationLink&lt;SwiftUIDemo.ItemRow, SwiftUIDemo.ItemDetail&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;SwiftUIDemo.MenuItem&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;SwiftUIDemo.ItemRow, SwiftUIDemo.ItemDetail&gt;&gt; in closure #1 (SwiftUIDemo.MenuSection) -&gt; SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;Swift.Array&lt;SwiftUIDemo.MenuItem&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;SwiftUIDemo.ItemRow, SwiftUIDemo.ItemDetail&gt;&gt;, SwiftUI.EmptyView&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;SwiftUIDemo.MenuSection&gt;, Foundation.UUID, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;Swift.Array&lt;SwiftUIDemo.MenuItem&gt;, Foundation.UUID, SwiftUI.NavigationLink&lt;SwiftUIDemo.ItemRow, SwiftUIDemo.ItemDetail&gt;&gt;, SwiftUI.EmptyView&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.listStyle&lt;A where A1: SwiftUI.ListStyle&gt;(A1) -&gt; some&gt;&gt;.0 in SwiftUIDemo.ContentView.body.getter : some"
+                  moduleName = "SwiftUIDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pratiks/Desktop/Learn/SwiftUIDemo/SwiftUIDemo/View/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "122">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
